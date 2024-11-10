@@ -1,0 +1,19 @@
+{
+    "name": "my-node-project",
+    "version": "1.0.0",
+    "description": "Proyek Node.js yang menggunakan modul matematika, string, dan tanggal.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "node",
+      "javascript",
+      "math",
+      "string",
+      "date"
+    ],
+    "author": "Muhammad Fajrin Tsinan F",
+    "Kelas": "TI23C"
+    
+  }
